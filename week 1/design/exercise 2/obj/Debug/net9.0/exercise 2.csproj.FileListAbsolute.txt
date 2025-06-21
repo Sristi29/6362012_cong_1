@@ -12,3 +12,4 @@ C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\design\exercise 2\obj\Debug\net9.0\
 C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\design\exercise 2\obj\Debug\net9.0\exercise 2.pdb
 C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\design\exercise 2\obj\Debug\net9.0\exercise 2.genruntimeconfig.cache
 C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\design\exercise 2\obj\Debug\net9.0\ref\exercise 2.dll
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\design\exercise 2\obj\Debug\net9.0\exercise 2.sourcelink.json
