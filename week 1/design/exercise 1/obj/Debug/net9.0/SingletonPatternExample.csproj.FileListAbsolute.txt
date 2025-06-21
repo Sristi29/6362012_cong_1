@@ -40,3 +40,4 @@ C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\design\exercise 1\obj\Debug\net9.0\
 C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\design\exercise 1\obj\Debug\net9.0\SingletonPatternExample.pdb
 C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\design\exercise 1\obj\Debug\net9.0\SingletonPatternExample.genruntimeconfig.cache
 C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\design\exercise 1\obj\Debug\net9.0\ref\SingletonPatternExample.dll
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\design\exercise 1\obj\Debug\net9.0\SingletonPatternExample.sourcelink.json
