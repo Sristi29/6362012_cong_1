@@ -1,0 +1,14 @@
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\bin\Debug\net9.0\DN 4.0.exe
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\bin\Debug\net9.0\DN 4.0.deps.json
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\bin\Debug\net9.0\DN 4.0.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\bin\Debug\net9.0\DN 4.0.dll
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\bin\Debug\net9.0\DN 4.0.pdb
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\obj\Debug\net9.0\DN 4.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\obj\Debug\net9.0\DN 4.0.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\obj\Debug\net9.0\DN 4.0.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\obj\Debug\net9.0\DN 4.0.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\obj\Debug\net9.0\DN 4.0.dll
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\obj\Debug\net9.0\refint\DN 4.0.dll
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\obj\Debug\net9.0\DN 4.0.pdb
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\obj\Debug\net9.0\DN 4.0.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\DN 4.0\week 1\datastructure\exercise 1\obj\Debug\net9.0\ref\DN 4.0.dll
