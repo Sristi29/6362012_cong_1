@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KIIT\\OneDrive\\Desktop\\CONG\\6362012_cong_1\\week 1\\design\\exercise 2\\exercise 2.csproj",
+      "projectUniqueName": "C:\\Users\\KIIT\\OneDrive\\Desktop\\cong_work\\6362012_cong_1\\week 1\\design\\exercise 2\\exercise 2.csproj",
       "projectName": "exercise 2",
-      "projectPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\CONG\\6362012_cong_1\\week 1\\design\\exercise 2\\exercise 2.csproj",
+      "projectPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\cong_work\\6362012_cong_1\\week 1\\design\\exercise 2\\exercise 2.csproj",
       "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\CONG\\6362012_cong_1\\week 1\\design\\exercise 2\\obj\\",
+      "outputPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\cong_work\\6362012_cong_1\\week 1\\design\\exercise 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
